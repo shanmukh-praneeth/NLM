@@ -15,3 +15,12 @@ NLM/
 │── report.pdf
 │── README.md
 ```
+
+## Running Project
+
+1. Install dependencies
+   ``` bash
+   pip install matplotlib torch tqdm
+   ```
+2. Open a notebook
+3. Run all the cells to train the model and generate plots
