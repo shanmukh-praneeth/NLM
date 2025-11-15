@@ -9,15 +9,8 @@ NLM/
 │── plots/
 │    ├── loss_curve_32x64.png
 │    ├── perplexity_curve_32x64.png
-│── data/
-│    └── dataset.txt
-│── models/
-│    └── best_model.pt
-│── src/
-│    ├── dataset.py
-│    ├── model.py           # your custom LSTM
-│    ├── train.py           # training loop
-│    ├── utils.py
+│── Pride_and_Prejudice-Jane_Austen.txt
+│── src
 │── report.pdf
 │── README.md
 
