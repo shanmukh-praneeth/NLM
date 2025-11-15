@@ -5,6 +5,10 @@ This project demonstrates training a neural language model from scratch using Py
 
 ```
 NLM/
+
+│── plots/
+│    ├── loss_curve_32x64.png
+│    ├── perplexity_curve_32x64.png
 │── data/
 │    └── dataset.txt
 │── models/
@@ -14,10 +18,6 @@ NLM/
 │    ├── model.py           # your custom LSTM
 │    ├── train.py           # training loop
 │    ├── utils.py
-│── plots/
-│    ├── underfit_loss.png
-│    ├── overfit_loss.png
-│    ├── bestfit_loss.png
 │── report.pdf
 │── README.md
 
