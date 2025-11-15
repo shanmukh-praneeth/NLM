@@ -14,5 +14,4 @@ NLM/
 │── neurallanguagemodel_32x64.ipynb
 │── report.pdf
 │── README.md
-
 ```
