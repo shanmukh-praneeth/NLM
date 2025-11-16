@@ -13,7 +13,7 @@ NLM/
 │    ├── perplexity_curve_256x512.png
 │    ├── perplexity_curve_32x64.png
 │── Pride_and_Prejudice-Jane_Austen.txt
-│── model_128x256.ipynb
+│── model.ipynb
 │── NLM_Assignment.pdf
 │── README.md
 ```
